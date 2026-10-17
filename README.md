@@ -22,3 +22,4 @@ Add the portfolio owner's preferred name and a direct public contact method when
 4. Choose **Deploy**. Vercel will provide a public URL; open it in a private/incognito window to check it.
 
 After editing the contact section or other details, upload the changed `index.html` to the same repository; GitHub Pages or Vercel will publish the update automatically.
+
