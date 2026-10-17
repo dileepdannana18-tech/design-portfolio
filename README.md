@@ -23,3 +23,4 @@ Add the portfolio owner's preferred name and a direct public contact method when
 
 After editing the contact section or other details, upload the changed `index.html` to the same repository; GitHub Pages or Vercel will publish the update automatically.
 
+
